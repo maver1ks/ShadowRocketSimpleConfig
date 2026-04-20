@@ -236,6 +236,7 @@ DOMAIN-SUFFIX,horizon3.ai
 DOMAIN-SUFFIX,specterops.io
 DOMAIN-SUFFIX,hashcat.net
 # Всякое
-DOMAIN-SUFFIX,pornhub.com
-DOMAIN-SUFFIX,xvideos.com
+DOMAIN-KEYWORD,pornhub
+DOMAIN-KEYWORD,xvideos
+DOMAIN-KEYWORD,xv-ru
 DOMAIN-SUFFIX,io
