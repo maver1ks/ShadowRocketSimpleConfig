@@ -89,7 +89,6 @@ USER-AGENT,SoundCloud*
 DOMAIN-KEYWORD,spotify
 USER-AGENT,Spotify*
 DOMAIN-KEYWORD,unsplash
-DOMAIN-SUFFIX,z37u.ahc.ovh
 DOMAIN-SUFFIX,kino.pub
 # Новости
 DOMAIN-SUFFIX,datacamp.com
