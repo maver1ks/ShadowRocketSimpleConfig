@@ -89,7 +89,7 @@ USER-AGENT,SoundCloud*
 DOMAIN-KEYWORD,spotify
 USER-AGENT,Spotify*
 DOMAIN-KEYWORD,unsplash
-DOMAIN-SUFFIX,tg3q.tsx.ovh
+# DOMAIN-SUFFIX,tg3q.tsx.ovh // kinopub
 # Новости
 DOMAIN-SUFFIX,datacamp.com
 DOMAIN-SUFFIX,euronews.com
