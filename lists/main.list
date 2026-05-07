@@ -33,6 +33,7 @@ DOMAIN-SUFFIX,twvid.com
 DOMAIN-SUFFIX,vine.co
 DOMAIN-SUFFIX,x.com
 # Видео и медиа
+DOMAIN-SUFFIX,flexcdn.cloud
 # YouTube
 DOMAIN-KEYWORD,youtube
 DOMAIN-SUFFIX,youtube.com
