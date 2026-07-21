@@ -65,12 +65,18 @@ DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,youtube-ui.l.google.com
+# Kinopub
+DOMAIN-SUFFIX,kino.pub
+DOMAIN-SUFFIX,pushbr.com
+DOMAIN-SUFFIX,m.pushbr.com
+IP-CIDR,178.248.233.148
+IP-CIDR,109.238.90.239
+IP-CIDR,92.223.97.97
 # Прочие медиа
 DOMAIN-SUFFIX,deezer.com
 DOMAIN-SUFFIX,f1.com
 DOMAIN-SUFFIX,formula1.com
 DOMAIN-SUFFIX,imgur.com
-DOMAIN-SUFFIX,kino.pub
 DOMAIN-SUFFIX,cdn32.lol
 DOMAIN-SUFFIX,cdntogo.net
 DOMAIN-SUFFIX,metacritic.com
