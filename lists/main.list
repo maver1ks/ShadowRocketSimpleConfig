@@ -67,6 +67,7 @@ DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,youtube-ui.l.google.com
 # Kinopub
 DOMAIN-SUFFIX,kino.pub
+DOMAIN-SUFFIX,kino.watch
 DOMAIN-SUFFIX,pushbr.com
 DOMAIN-SUFFIX,m.pushbr.com
 IP-CIDR,178.248.233.148
